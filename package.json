@@ -1,0 +1,22 @@
+{
+  "name": "basic_node_project",
+  "version": "1.0.0",
+  "description": "This project will be for testing and learning purposes. A basic and simple Node.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jherey/basic_node_project.git"
+  },
+  "author": "Jeremiah Olufayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jherey/basic_node_project/issues"
+  },
+  "homepage": "https://github.com/jherey/basic_node_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
